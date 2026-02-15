@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Abhishek
+## - BCA Student
+## - Currently learning Git & DSA
+## - Building structured  projects
+## - Open to internship opportunities
+
 
 <!--
 **abhishekmail-prog/abhishekmail-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
